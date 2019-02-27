@@ -1,0 +1,4 @@
+export default {
+    NAVIGATE_TO_AUTH: NAVIGATE_TO_AUTH,
+    NAVIGATE_TO_APP: NAVIGATE_TO_APP
+};
